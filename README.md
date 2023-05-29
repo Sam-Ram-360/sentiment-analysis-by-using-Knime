@@ -1,6 +1,8 @@
 # sentiment-analysis-by-using-Knime
 
-In this project, I focused on performing sentiment analysis on Yelp restaurant reviews. To prepare the textual data for analysis, I applied various preprocessing steps using different nodes in Knime. These included utilizing the Stanford lemmatizer, word creator, Stanford tagger, and punctuation Erasure. These nodes helped transform the raw text into a structured format suitable for further analysis.
+In this project, I focused on performing sentiment analysis on Yelp restaurant reviews. To begin, I uploaded the Yelp review file, which served as the basis for my analysis.
+
+To prepare the textual data for analysis, I applied various preprocessing steps using different nodes in Knime. These included utilizing the Stanford lemmatizer, word creator, Stanford tagger, and punctuation Erasure. These nodes helped transform the raw text into a structured format suitable for further analysis.
 
 After preprocessing, I identified the 10 most frequent features in the reviews. This provided valuable insights into the commonly mentioned aspects of the restaurants and their associated sentiments.
 
